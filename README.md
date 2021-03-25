@@ -1,5 +1,5 @@
 # C-language
-this is tool learn C langouge in termux
+<h1>bash sh</h1>
 <br>
 [*] pkg update && upgrade -y
 <br>
