@@ -1,8 +1,8 @@
 # C-language
 this is tool learn C langouge in termux
-<pre>
+<br>
 [*] pkg update && upgrade -y
-<pre>
+<br>
 [*] pkg install python
-<pre>
+<br>
 [*] pkg install micro
