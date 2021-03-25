@@ -1,5 +1,5 @@
 # C-language
-<h1>bash sh
+<h1>pkg 
 <br>
 [*] pkg update && upgrade -y
 <br>
