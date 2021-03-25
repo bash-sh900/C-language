@@ -5,7 +5,7 @@
 <br>
 [*] pkg install python
 <br>
- [*] pkg install micro && pkg install figlet && pkg install Clang
+ [*] pkg install micro && pkg install figlet && pkg install clang
  <br>
  [*] pkg install git
  <br>
