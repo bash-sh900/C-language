@@ -13,5 +13,4 @@
   <br>
   [*] bash pwd.sh
 </h4>
-
-<img src="/storage/emulated/0/Pictures/Screenshots/Screenshot_20210325-224356.jpg">
+<img src="https://github.com/bash-sh900/C-language/blob/main/Screenshot_20210325-224356.jpg">
