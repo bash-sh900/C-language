@@ -9,7 +9,9 @@
  <br>
  [*] pkg install git
  <br>
-  [*] git clone https://github.com/bash-sh900/C-language/blob/main/README.md
+  [*] git clone https://github.com/bash-sh900/C-language
+<br>
+[*] cd C-language
   <br>
   [*] bash pwd.sh
 </h4>
