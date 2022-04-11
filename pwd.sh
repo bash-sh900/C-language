@@ -13,7 +13,7 @@ read -p "Choose options : " pw
 
 if [ $pw = "1" ];
 then
-micro file.C
+nano file.C
 elif [ $pw = "2" ];
 then
 clear
